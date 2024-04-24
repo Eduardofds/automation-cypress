@@ -1,0 +1,20 @@
+{
+  "name": "automation-cypress",
+  "version": "1.0.0",
+  "description": "Automated tests using Cypress for automationpractice",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/seu-repositorio.git"
+  },
+  "keywords": ["Cypress", "Automation", "Testing"],
+  "author": "Eduardo Fernandes <eduardosilva3324@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
